@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+.signup{
+
+    
+    padding-left: 650px; 
+    padding-top: 20px ;
+    /* border: 1px solid black; */
+    /* background-color: blanchedalmond; */
+    /* height: 50em; */
+    /*  margin-top: 5% ; */
+}
+
+.signup h1{
+    padding-left: 1em;
+    
+
+}
+
+.signup input{
+    height: 1.5em;
+    width: 20em;
+}
+
+  .signup #signup-button{
+      
+    width: 20em;
+    height: 2em;
+     color: white; 
+     background-color: dodgerblue; 
+
+}

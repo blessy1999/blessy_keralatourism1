@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: honeydew;
+}
+.idki h1{
+    text-align: center;
+    text-decoration: wavy;
+    font-family: cursive;
+}
+.margin p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-group h5{
+    font-family: fantasy;
+}
+.card-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

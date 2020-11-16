@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.login{
+
+    
+    padding-left: 650px; 
+    padding-top: 100px ;
+    /* border: 1px solid black; */
+    /* background-color: blanchedalmond; */
+    /* height: 50em; */
+    /*  margin-top: 5% ; */
+}
+
+.login h2{
+    padding-left: 3.5em;
+    
+
+}
+
+.login input{
+    height: 1.5em;
+    width: 20em;
+}
+
+
+
+  .login #login-button{
+      width: 20em;
+    height: 2em;
+     color: white; 
+     background-color: dodgerblue; 
+
+}
